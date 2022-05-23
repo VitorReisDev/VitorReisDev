@@ -1,3 +1,4 @@
+- 🌍 I'm based in Brazil
 - 👋 Hi, I’m @VitorReisDev
 - 👀 I’m interested in new challenges
 - 🌱 I’m currently learning frontend 
