@@ -1,7 +1,7 @@
 - 🌍 I'm based in Brazil
 - 👋 Hi, I’m @VitorReisDev
 - 👀 I’m interested in new challenges
-- 📚 I’m currently learning frontend 
+- 📚 I’m currently learning frontend and backend
 - 📫 How to reach me: @vitorreis5323 and hugov5323gmail.com
 
 <!---
